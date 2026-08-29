@@ -1,0 +1,12 @@
+Total Revenue: ₹3,602,014.91
+Total Orders: 1500
+Average Order Value: ₹2,401.34
+
+Top-selling product: Power Bank (₹273,330.92)
+Top category: Electronics (₹902,108.19)
+Top region: South (₹878,639.80)
+Best month: 2024-05 (₹255,829.07)
+Top customer: Customer_29 from Delhi (₹34,234.50)
+Most used payment method: UPI (34.73%)
+Repeat customers: 295
+Highest single order value: ₹14,663.23 (Order #538, Customer_251)
